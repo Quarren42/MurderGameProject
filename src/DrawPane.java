@@ -68,7 +68,7 @@ public class DrawPane extends JPanel {
 					case 3:
 						g.drawImage(blood, i * gridHeight, j * gridHeight, gridHeight, gridHeight, Color.white, null);
 						break;
-
+						
 					case 4:
 						g.setColor(Color.black);
 						g.drawImage(vick, i * gridHeight, j * gridHeight, gridHeight, gridHeight, Color.white, null);
